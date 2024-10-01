@@ -8,13 +8,15 @@ In networking, data is encapsulated at different layers of the `OSI (Open System
 
 1.  Application Layer (Layer 7):
 
-        - Data Name: Data (or Message)
-        - This is the layer where user-level protocols operate (e.g., HTTP, FTP).
+    - Data Name: `Data` (or `Message`)
+    - This is the layer where user-level protocols operate (e.g., `HTTP`, `FTP`).
 
-Presentation Layer (Layer 6):
+2.  Presentation Layer (Layer 6):
 
-Data Name: Data (or Message)
-Responsible for data formatting, encryption, and compression.
+    - Data Name: `Data` (or `Message`)
+
+    - Responsible for `data formatting`, `encryption`, and `compression`.
+
 Session Layer (Layer 5):
 
 Data Name: Data (or Message)
