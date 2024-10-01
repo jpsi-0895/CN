@@ -22,11 +22,12 @@ In networking, data is encapsulated at different layers of the `OSI (Open System
     - Data Name: `Data` (or `Message`)
     - Manages `sessions` between applications.
 
-Transport Layer (Layer 4):
+4.  Transport Layer (Layer 4):
 
-Data Name: Segment (for TCP) or Datagram (for UDP)
-Provides end-to-end communication and error recovery.
-Network Layer (Layer 3):
+    - Data Name: `Segment` (for `TCP`) or `Datagram` (for `UDP`)
+    - Provides `end-to-end` communication and `error recovery`.
+
+    Network Layer (Layer 3):
 
 Data Name: Packet
 Handles routing of data across multiple networks.
