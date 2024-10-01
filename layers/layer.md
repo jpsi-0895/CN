@@ -17,10 +17,11 @@ In networking, data is encapsulated at different layers of the `OSI (Open System
 
     - Responsible for `data formatting`, `encryption`, and `compression`.
 
-Session Layer (Layer 5):
+3.  Session Layer (Layer 5):
 
-Data Name: Data (or Message)
-Manages sessions between applications.
+    - Data Name: `Data` (or `Message`)
+    - Manages `sessions` between applications.
+
 Transport Layer (Layer 4):
 
 Data Name: Segment (for TCP) or Datagram (for UDP)
