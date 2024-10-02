@@ -33,3 +33,12 @@ Description: Standards for broadband wireless access, known as `WiMAX`.
 ### 6. IEEE 802.22
 
 Description: Standards for wireless regional area networks (`WRAN`), which operate in the `TV broadcast` bands.
+
+
+### IEEE 802 Standards Overview
+IEEE 802.1: Standards for network management and bridging.
+
+    802.1D: Spanning Tree Protocol (STP)
+    802.1Q: Virtual LANs (VLANs)
+    802.1X: Port-based Network Access Control
+    802.1AE: MAC Security (MACsec)
