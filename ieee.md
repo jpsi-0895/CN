@@ -34,25 +34,25 @@ Description: Standards for broadband wireless access, known as `WiMAX`.
 
 Description: Standards for wireless regional area networks (`WRAN`), which operate in the `TV broadcast` bands.
 
-
 ### IEEE 802 Standards Overview
-IEEE 802.1: Standards for network management and bridging.
+
+1. `IEEE 802.1`: Standards for network management and bridging.
 
     802.1D: Spanning Tree Protocol (STP)
     802.1Q: Virtual LANs (VLANs)
     802.1X: Port-based Network Access Control
     802.1AE: MAC Security (MACsec)
 
-IEEE 802.2: Logical Link Control (LLC) layer, defining how protocols in the network layer interact with data link layer.
+2. IEEE 802.2: Logical Link Control (LLC) layer, defining how protocols in the network layer interact with data link layer.
 
-IEEE 802.3: Standards for Ethernet networks.
+3. IEEE 802.3: Standards for Ethernet networks.
 
-802.3-2005: Base standard for Ethernet
-802.3u: Fast Ethernet (100 Mbps)
-802.3z: Gigabit Ethernet (1 Gbps)
-802.3ae: 10 Gigabit Ethernet
-802.3ba: 40 and 100 Gigabit Ethernet
-802.3bt: Power over Ethernet (PoE)
+    - 802.3-2005: Base standard for Ethernet
+    - 802.3u: Fast Ethernet (100 Mbps)
+    - 802.3z: Gigabit Ethernet (1 Gbps)
+    - 802.3ae: 10 Gigabit Ethernet
+    - 802.3ba: 40 and 100 Gigabit Ethernet
+    - 802.3bt: Power over Ethernet (PoE)
 IEEE 802.11: Standards for wireless local area networks (Wi-Fi).
 
 802.11a: 5 GHz, up to 54 Mbps
