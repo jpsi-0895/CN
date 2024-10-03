@@ -63,22 +63,22 @@ Description: Standards for wireless regional area networks (`WRAN`), which opera
     - 802.11ac: 5 GHz, up to several Gbps (MU-MIMO)
     - 802.11ax: Wi-Fi 6, improved efficiency and performance
 
-5. IEEE 802.12: 100BASE-T (100 Mbps Ethernet).
+5. IEEE 802.12: `100BASE-T` (100 Mbps Ethernet).
 
-6. IEEE 802.15: Standards for wireless personal area networks (WPAN).
+6. IEEE 802.15: Standards for wireless personal area networks (`WPAN`).
 
-    - 802.15.1: Bluetooth
+    - 802.15.1: `Bluetooth`
     - 802.15.4: Low-rate WPAN (used in `Zigbee`)
     - 802.15.6: Wireless Body Area Networks (`WBAN`)
 
 7. IEEE 802.16: Standards for broadband wireless access.
 
-    802.16-2004: Fixed WiMAX
-    802.16e: Mobile WiMAX
+    - 802.16-2004: Fixed `WiMAX`
+    - 802.16e: `Mobile WiMAX`
 
-IEEE 802.17: Resilient Packet Ring (RPR).
+8. IEEE 802.17: Resilient Packet Ring (`RPR`).
 
-IEEE 802.18: Wireless Electromagnetic Compatibility (EMC) working group.
+9. IEEE 802.18: Wireless Electromagnetic Compatibility (EMC) working group.
 
 IEEE 802.19: Coexistence between different wireless technologies.
 
