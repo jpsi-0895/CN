@@ -43,7 +43,7 @@ Description: Standards for wireless regional area networks (`WRAN`), which opera
     - 802.1X: Port-based Network Access Control
     - 802.1AE: MAC Security (MACsec)
 
-2.  `IEEE 802.2`: Logical Link Control (LLC) layer, defining how protocols in the network layer interact with data link layer.
+2.  `IEEE 802.2`: Logical Link Control (`LLC`) layer, defining how protocols in the network layer interact with data link layer.
 
 3.  `IEEE 802.3`: Standards for Ethernet networks.
 
@@ -52,7 +52,7 @@ Description: Standards for wireless regional area networks (`WRAN`), which opera
     - 802.3z: Gigabit Ethernet (1 Gbps)
     - 802.3ae: 10 Gigabit Ethernet
     - 802.3ba: 40 and 100 Gigabit Ethernet
-    - 802.3bt: Power over Ethernet (PoE)
+    - 802.3bt: Power over Ethernet (`PoE`)
 
 4. `IEEE 802.11`: Standards for wireless local area networks (`Wi-Fi`).
 
@@ -61,7 +61,7 @@ Description: Standards for wireless regional area networks (`WRAN`), which opera
     - 802.11g: 2.4 GHz, up to 54 Mbps
     - 802.11n: 2.4/5 GHz, up to 600 Mbps (MIMO)
     - 802.11ac: 5 GHz, up to several Gbps (MU-MIMO)
-    - 802.11ax: Wi-Fi 6, improved efficiency and performance
+    - 802.11ax: `Wi-Fi 6`, improved efficiency and performance
 
 5. IEEE 802.12: `100BASE-T` (100 Mbps Ethernet).
 
@@ -78,12 +78,12 @@ Description: Standards for wireless regional area networks (`WRAN`), which opera
 
 8. IEEE 802.17: Resilient Packet Ring (`RPR`).
 
-9. IEEE 802.18: Wireless Electromagnetic Compatibility (EMC) working group.
+9. IEEE 802.18: Wireless Electromagnetic Compatibility (`EMC`) working group.
 
-IEEE 802.19: Coexistence between different wireless technologies.
+10. IEEE 802.19: Coexistence between different wireless technologies.
 
-IEEE 802.20: Mobile broadband wireless access.
+11. IEEE 802.20: `Mobile broadband wireless access`.
 
-IEEE 802.21: Media Independent Handover (MIH).
+12. IEEE 802.21: Media Independent Handover (`MIH`).
 
-IEEE 802.22: Wireless Regional Area Networks (WRAN), using TV white spaces.
+13. IEEE 802.22: Wireless Regional Area Networks (`WRAN`), using TV white spaces.
