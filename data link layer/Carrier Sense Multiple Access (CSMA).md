@@ -32,3 +32,9 @@ Total Time=Transmission Delay+RTT=8 ms+4 ms=12 ms
 3. The efficiency (E) can be calculated as:
 
    E=Total TimeTransmission Time​=12 ms8 ms​≈0.67 or 67%
+
+## 4. Maximum Packet Size Calculation
+
+**Question:**
+
+In a CSMA/CA network, if the channel bandwidth is 2 Mbps and the propagation delay is 5 ms, what is the maximum packet size that can be sent without causing a collision, assuming the round-trip time is 20 ms?
