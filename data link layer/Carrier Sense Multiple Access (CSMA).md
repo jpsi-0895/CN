@@ -38,3 +38,9 @@ Total Time=Transmission Delay+RTT=8 ms+4 ms=12 ms
 **Question:**
 
 In a CSMA/CA network, if the channel bandwidth is 2 Mbps and the propagation delay is 5 ms, what is the maximum packet size that can be sent without causing a collision, assuming the round-trip time is 20 ms?
+
+![Maximum Packet Size Calculation](image-1.png)
+
+**The minimum packet size:**
+
+A 2 km long broadcast LAN has 107 bps bandwidth and uses CSMA/CD. The signal travels along the wire at 2 × 108 m/s. What is the minimum packet size that can be used on this network?
