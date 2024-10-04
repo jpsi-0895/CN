@@ -44,3 +44,20 @@ In a CSMA/CA network, if the channel bandwidth is 2 Mbps and the propagation del
 **The minimum packet size:**
 
 A 2 km long broadcast LAN has 107 bps bandwidth and uses CSMA/CD. The signal travels along the wire at 2 × 108 m/s. What is the minimum packet size that can be used on this network?
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+RTT = Transmission Time
+
+Transmission Time = Length of packet / Bandwidth
+RTT = 2 (d/v) 
+    = 2(2000/2×10^8) 
+
+Therefore to find minimum size of the packet, 
+RTT = Length of packet / Bandwidth
+Length of packet = RTT x Bandwidth
+                 = 2(2000/2×10^8) x 10^7 
+                 = 200bits 
+                 = 25bytes
+
+Therefore, minimum size of the packet = 25bytes 
