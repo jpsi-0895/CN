@@ -21,3 +21,9 @@ Unguided media, which transmit signals without `physical conduits`, utilize vari
 
 `Frequency Range`: Generally between `30 GHz and 300 GHz`.
 `Applications`: Used in advanced telecommunications, including 5G networks, and certain types of `radar`.
+
+### Key Considerations
+
+- Lower frequencies can travel longer distances and penetrate obstacles better
+
+- Higher frequencies generally offer higher data rates but with limited range and penetration.
