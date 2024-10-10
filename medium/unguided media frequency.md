@@ -16,3 +16,8 @@ Unguided media, which transmit signals without `physical conduits`, utilize vari
 
 - `Frequency Range`: Approximately `300 GHz to 400 THz` (though not always categorized by frequency in the same way as radio and microwaves).
 - `Applications`: Common in remote controls, `short-range` data transfer (like some wireless peripherals), and certain types of wireless networking.
+
+## 4. Millimeter Waves
+
+`Frequency Range`: Generally between `30 GHz and 300 GHz`.
+`Applications`: Used in advanced telecommunications, including 5G networks, and certain types of `radar`.
